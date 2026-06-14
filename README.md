@@ -21,7 +21,7 @@ pip install -r requirements.txt
 jupyter notebook "Heart Disease Prediction.ipynb"
 ```
 
-Run all cells sequentially. The dataset is loaded directly from the UCI repository URL — no manual download needed.
+Run all cells sequentially. The dataset is loaded directly from the UCI repository URL. No manual download needed.
 
 ## Requirements
 - Python 3.9+

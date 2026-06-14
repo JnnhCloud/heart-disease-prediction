@@ -1,4 +1,4 @@
-# Heart Disease Prediction — ML Pipeline
+# Heart Disease Prediction - ML Pipeline
 
 TTTC2453 Machine Learning (AI) Final Group Project  
 Dataset: D7 — Heart Disease (Cleveland), UCI ML Repository
